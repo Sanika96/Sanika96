@@ -1,5 +1,4 @@
 Hi there 👋
-🔭 I’m currently working on Java RestAPIs and Python begineer.
-🌱 I’m currently learning Python frameworks.
-⚡ Fun fact: I need coffee while coding !!
+🔭 I’m currently a technical product manager, aspiring to be in the AI PM space.!!
+⚡ Fun fact: I need coffee while working!!
 
